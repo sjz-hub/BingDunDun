@@ -11,3 +11,4 @@ The final effect is shown in the figure below.
 VideoFiles cannot be placed in README.md, so there is no running demonstration video here. You only need to run BingDunDun.py file is OK.
 如果你觉得使用python画的冰墩墩有意思，那就Star吧  
 If you think BingDunDun with python is interseting, then give me a star.  
+欢迎访问我的[博客](https://www.cnblogs.com/sunjianzhao/)
